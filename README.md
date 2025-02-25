@@ -14,4 +14,4 @@ Here One Main Agent `Car Repair Agent` will call `CRM Agent` that will use the A
 ## <img width="1271" alt="Screenshot 2025-02-25 at 2 55 12 PM" src="https://github.com/user-attachments/assets/f8b68299-9091-4934-9825-684de95a4572" />
 
 To follow the steps in detail, visit: 
-https://github.com/initmahesh/MLAI-community-labs/blob/main/Class-Labs/Lab-4(VertexAI-Agents%26ChatGPT-Agents)/VertexAI_agents.md?plain=1
+https://github.com/initmahesh/MLAI-community-labs/blob/main/Class-Labs/Lab-4(VertexAI-Agents%26ChatGPT-Agents)/VertexAI_agents.md
